@@ -13,11 +13,11 @@ And then there is beer and music at the end (a.k.a. End Of The World Party). Sma
 ## What you need
 
 * A room full of procrastinators, ideally on a rainy Saturday.
-* A wall to stick tasks onto (with a "TODO" sign on it)
+* A wall to stick tasks to (with a "TODO" sign on it)
 * A bin to throw done tasks into (with a "DONE" sign on it)
 * Some tape to mark 242cm distance from the bin. That's where you throw done tasks from.
 * An alarm clock (pomodoro will do, or you can use our digital version - coming soon).
-* One panic hat for every 10 participants. Any hat will do, but you need to attach a not to it that says "Let's Panic"
+* One panic hat for every 10 participants. Any hat will do, but you need to attach a note to it that says "Let's Panic"
 * One leader hat for the participant that at any given moment of time has the most "done" tasks in the bin. Any hat will do that says "DonesKing".
 * Beer & Donuts (for the afterparty)
 
@@ -41,20 +41,20 @@ Yes you can participate remotely if your task(s) requires being elsewhere. But i
 Donesday has an official song. [Here it is](https://soundcloud.com/george-strakhov/donesong).
 
 Can sing better than me? A pull request is _very_ welcome.
-The text is available [here](https://raw.githubusercontent.com/donesday/donesday/master/song/donesong-text.md).
+Lyrics available [here](https://raw.githubusercontent.com/donesday/donesday/master/song/donesong-text.md).
 
 ## Donesdance
-At the end of every Donesday we throw the end of the world part, called Donesdance.
+At the end of every Donesday we throw the end of the world party, called Donesdance.
 The only prerequisites are beer and music.
 Burning the to-do post-its from the Dones bin is usually fun. But only do this if you are outside and know what you are doing.
-There is no special dance at the moment, but eventually our wonderful community may come up with the moves (pull request welcome!) and then you will have to learn it.
+There is no special dance at the moment, but eventually our wonderful would-be community may come up with the moves (pull request welcome!) and then you will have to learn it.
 
 ------------------
 
 ## PROJECT TODO
 
-* organise the test donesday #0 (alpha)
-* lock down the date for the real international donesday #1 (beta)
+* organise the test donesday #0 (alpha) - tentatively scheduled (June 15)
+* lock down the date for the real international donesday #1 (beta) - tentatively scheduled (July 23)
 * put up a website via jekyll & gh-pages
 * make a participation form for the via google forms (or is there anything better?)
 
