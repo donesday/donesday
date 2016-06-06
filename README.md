@@ -35,7 +35,7 @@ And then there is beer and music at the end (a.k.a. End Of The World Party). Sma
 
 ## Remote participation
 
-Yes you can participate remotely if your task(s) requires being elsewhere. But it's not as fun. For remote participation, you just need to be mentally with the rest of us at all times.
+Yes you can participate remotely if your task(s) requires being elsewhere. But it's not nearly as much fun.
 
 ## Donesong
 Donesday has an official song. [Here it is](https://soundcloud.com/george-strakhov/donesong).
