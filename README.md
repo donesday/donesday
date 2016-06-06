@@ -4,7 +4,7 @@
 
 ## What?!
 
-[Donesday](http://donesday.com) is an open event format for procrastinators to come together and get shit done. Yes, we just come together, list our long-dreaded tasks and get them done (or at least make some progress), while sitting next to each other. Occasionally we chat and help each other through a particularly difficult block. But mostly we just sit silently and do shit.
+Donesday is an open event format for procrastinators to come together and get shit done. Yes, we just come together, list our long-dreaded tasks and get them done (or at least make some progress), while sitting next to each other. Occasionally we chat and help each other through a particularly difficult block. But mostly we just sit silently and do shit.
 
 Donesday works as a placebo deadline. And as most placebos it does work, as long as you make-believe that it is real. Other people (who encourage you on progress and boo you on procrastination) help as well. Some peer pressure, you know.
 
@@ -38,16 +38,10 @@ And then there is beer and music at the end (a.k.a. End Of The World Party). Sma
 Yes you can participate remotely if your task(s) requires being elsewhere. But it's not as fun. For remote participation, you just need to be mentally with the rest of us at all times.
 
 ## Donesong
-Donesday has an official song.
-Here it is:
-<audio controls>
-  <source src="https://cdn.rawgit.com/donesday/donesday/master/song/donesong-take-1.ogg" type="audio/ogg">
-  <source src="https://cdn.rawgit.com/donesday/donesday/master/song/donesong-take-1.mp3" type="audio/mpeg">
-Your browser does not support the audio element :((
-</audio>
+Donesday has an official song. [Here it is](https://soundcloud.com/george-strakhov/donesong).
 
 Can sing better than me? A pull request is _very_ welcome.
-The text is available [here](song/donesong-text.md).
+The text is available [here](https://raw.githubusercontent.com/donesday/donesday/master/song/donesong-text.md).
 
 ## Donesdance
 At the end of every Donesday we throw the end of the world part, called Donesdance.
