@@ -10,6 +10,19 @@ Donesday works as a placebo deadline. And as most placebos it does work, as long
 
 And then there is beer and music at the end (a.k.a. End Of The World Party). Smart people call it gratification, but I just call it beer.
 
+## What kinds of tasks are appropriate for a Donesday?
+
+Kind of anything you need / want to do but have been putting off for too long.
+Ideally you should be able to finish it or make progress within a few hours.
+
+For example:
+
+* redesign your old blog
+* prepare you tax return forms
+* fix a broken vase
+* learn how to play your favorite song on a ukulele
+* etc.
+
 ## What you need
 
 * A room full of procrastinators, ideally on a rainy Saturday.
