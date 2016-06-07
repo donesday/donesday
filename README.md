@@ -25,6 +25,7 @@ For example:
 * call your mom, tell her that you love her, ask her how she is doing and actually listen to what she is saying
 * review your credit card history to find and cancel all those useless subscriptions that you are still paying for
 * prepare a hand-written letter for your loved one
+* fix an appointment with a dentist BEFORE it starts to hurt
 * etc.
 
 ## What you need
@@ -72,6 +73,7 @@ There is no special dance at the moment, but eventually our wonderful would-be c
 ## PROJECT TODO
 
 * organise the test donesday #0 (alpha) - tentatively scheduled (June 15)
+* make a video for the song (?) something with a puppet toy
 * make a participation form for the via google forms for the first donesday (or is there anything better?)
 * make a post-event feedback form, including the right range for participation fee and days and corporate opportunities
 * lock down the date for the real international donesday #1 (beta) - tentatively scheduled (July 23)
