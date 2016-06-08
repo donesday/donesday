@@ -18,6 +18,7 @@ Ideally you should be able to finish it or make progress within 2-3 sprints (25 
 For example:
 
 * prepare you tax return forms
+* reply to all those emails and clean up your inbox
 * install a new wordpress theme into your old blog
 * fix a broken vase
 * learn how to play your favorite song on a ukulele from a youtube video
@@ -74,6 +75,7 @@ There is no special dance at the moment, but eventually our wonderful would-be c
 
 * organise the test donesday #0 (alpha) - tentatively scheduled (June 15)
 * make a video for the song (?) something with a puppet toy
+* register a youtube account
 * make a participation form for the via google forms for the first donesday (or is there anything better?)
 * make a post-event feedback form, including the right range for participation fee and days and corporate opportunities
 * lock down the date for the real international donesday #1 (beta) - tentatively scheduled (July 23)
