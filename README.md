@@ -72,17 +72,27 @@ There is no special dance at the moment, but eventually our wonderful would-be c
 ------------------
 
 ## PROJECT TODO
-
-* organise the test donesday #0 (alpha) - tentatively scheduled (June 15)
-* make a video for the song (?) something with a puppet toy
-* register a youtube account
-* make a participation form for the via google forms for the first donesday (or is there anything better?)
+* put something in about Snoozy (how to make him)
+* write FAQ
+* upload a video: to youtube & directly to FB for better sharing
+* create a poster (with location to be filled in) for local groups to organise
+* make a donesday clock (JS: 25 min working, 15 min helping. transition sounds. how many sprints?)
+* buy / get all the stuff needed for the test event (donesbin, post-its, tape, hats)
+* make a participation form for the via typeform
 * make a post-event feedback form, including the right range for participation fee and days and corporate opportunities
 * lock down the date for the real international donesday #1 (beta) - tentatively scheduled (July 23)
-* put up a website via jekyll & gh-pages
+* put up a .org website via jekyll & gh-pages
+* later:: put up a .com website for hosted sessions / corporate services? (nah, later)
+* people to reach out to for the announcement of the big first event:
+    - tim urban 
+    - trello (?)
 
 ## PROJECT HAVEDONE
 
+* make a video for the song (?) something with a puppet toy
+* register a youtube account (update. holy shit it's a pain in the ass. eligibility criteria and all. may be go with vimeo instead)
+* create a FB page for donesday and open event for Donesday x Moscow
+* organise the test donesday #0 (alpha) - scheduled (June 15)
 * come up with a brilliant idea
 * design a logo
 * register domain name (.com yeah, baby!)
