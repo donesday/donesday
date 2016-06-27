@@ -35,23 +35,24 @@ For example:
 * A wall to stick tasks to (with a "TODO" sign on it)
 * A bin to throw done tasks into (with a "DONE" sign on it)
 * A leader board. Any paper will do, where you have the names of all participants and add points as they finish their tasks.
-* Some tape to mark 242cm distance from the bin. That's where you throw done tasks from.
 * An alarm clock (pomodoro will do, or you can use our digital version - coming soon).
-* One panic hat for every 10 participants. Any hat will do, but you need to attach a note to it that says "Let's Panic"
-* One leader hat for the participant that at any given moment of time has the most "done" tasks in the bin. Any hat will do with a note that says "Doninja".
-* Beer & Donuts (for the afterparty)
+* Beer (for the afterparty)
 
 ## The Rules
 
-1. When you arrive at the location, put at least one task on the donesday wall (using post-it notes). In "strict mode" you also need to switch your phone off and hand it over to security people.
-2. Then look at other people's tasks and mark your name on at least one that you are willing to help with.
-3. Each round is 25 mins working + 15 mins talking (pomodoro style). You can have as many rounds as you wish (normally from 5 to 9 rounds within one Donesday, before you start the party).
-4. When you finish a task - take the post-it note and throw it into the donesday bin from the marked point (242cm from the donesday bin). Why? Because a lot of useless meetings end up with people throwing papers into the bins. So there must be something to it. That's why. Also it's some physical activity, exactly the right kind for procrastinators. 
+1. When you arrive at the location, put at least one task on the donesday wall (using post-it notes). You can also add tasks along the way. In "strict mode" you also need to switch your phone off and hand it over to security people.
+2. Each round is 25 mins working + 15 mins talking. You can have as many rounds as you wish (normally from 5 to 9 rounds within one Donesday, before you start the party). During collaboration time (15 min) we randomly connect (speed-dating style) and discuss each other's tasks and progress. Simply having to explain what you are trying to do to somebody else usually helps.
+Here is the protocol for a 15-min chat:
+    - Sit down next to each other and say "Hi, I am so and so."
+    - A game of paper-rock-scissors decides which one (the winner) gets a chance to get help this time. Let's call him the "Doer" and the other one the "Helper".
+    - The Helper starts the conversation, saying "What do you need a hand with?"
+    - The Helper's task is to listen carefully and suggest ways to clarify the task, break it down into smaller chunks achievable within 25 mins and make sure that her opponent arrives at some actionable conclusions in the course of the conversation. 
+    - The Doer's task is to articulate clearly what she is trying to do and be open-minded about the perspective provided by her "Helper" partner.
+4. When you finish a task - take the post-it note and throw it into the donesday bin from the marked point (142cm from the donesday bin). Why? Because a lot of useless meetings end up with people throwing papers into the bins. So there must be something to it. That's why. Also it's some physical activity, exactly the right kind for procrastinators. If you use Social Media, then you can also publish a quick update, for example: "Bike fixed! #donesday". Make sure to include the
+   donesday hashtag, so that we can all calculate how many people finished how many tasks across the globe. 
 5. If you hit it, you get a point. Make sure to add it next to your name on a leaderboard.
-6. At any given moment during the day, the person with the most points gets to wear a Doninja hat and feel cool for a while.
-7. If a participant gets really stuck, they can wear a panic hat and scream "Let's Panic", so that others can stop whatever they are doing and provide help. Every participant can use a panic hat only once during the day. 
-8. After the end of the last round - the Doninja participant gets a chance to be the DJ (or to nominate a DJ) and the "End of the world party" begins. Beer and optional donuts are provided by the organizer (in exchange for a small participation fee or for free if organizers are overly altruistic or if this is a corporate donesday).
-9. All drunk and happy everyone goes home - till next time that is (we recommend to participate in a Donesday at least twice a month).
+7. After the end of the last round - the participant with the most dones gets a chance to be the DJ (or to nominate a DJ) and the "End of the world party" begins. Beer is provided by the organizer (in exchange for a small participation fee or for free if organizers are overly altruistic or if this is a corporate donesday).
+8. All drunk and happy everyone goes home - till next time that is (we recommend to participate in a Donesday at least once a month).
 
 ## Remote participation
 
@@ -74,21 +75,23 @@ There is no special dance at the moment, but eventually our wonderful would-be c
 ## PROJECT TODO
 * put something in about Snoozy (how to make him)
 * write FAQ
-* upload a video: to youtube & directly to FB for better sharing
-* create a poster (with location to be filled in) for local groups to organise
+* create a poster (A4 & A3) (with location to be filled in) for local groups to organise
 * make a donesday clock (JS: 25 min working, 15 min helping. transition sounds. how many sprints?)
-* buy / get all the stuff needed for the test event (donesbin, post-its, tape, hats)
-* make a participation form for the via typeform
-* make a post-event feedback form, including the right range for participation fee and days and corporate opportunities
-* lock down the date for the real international donesday #1 (beta) - tentatively scheduled (July 23)
-* put up a .org website via jekyll & gh-pages
-* later:: put up a .com website for hosted sessions / corporate services? (nah, later)
+* make a donesday briefing slidedeck (via reveal.js) for organisers
+* pre-launch with friends
+* soft-launch via FB
 * people to reach out to for the announcement of the big first event:
     - tim urban 
     - trello (?)
 
 ## PROJECT HAVEDONE
 
+* put up a .org website via jekyll & gh-pages
+* make a participation form for the via typeform + connect to google spreadhseet
+* upload / publish the final video: to youtube & directly to FB for better sharing
+* shorten the video (also add something about #donesday hashtag ??)
+* lock down the date for the real international donesday #1 (beta) - tentatively scheduled (July 23)
+* buy / get all the stuff needed for the test event (donesbin, post-its, tape, hats)
 * make a video for the song (?) something with a puppet toy
 * register a youtube account (update. holy shit it's a pain in the ass. eligibility criteria and all. may be go with vimeo instead)
 * create a FB page for donesday and open event for Donesday x Moscow
