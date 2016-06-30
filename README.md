@@ -6,9 +6,22 @@
 
 Donesday is an open event format for procrastinators to come together and get shit done. Yes, we just come together, list our long-dreaded tasks and get them done (or at least make some progress), while sitting next to each other. Occasionally we chat and help each other through a particularly difficult block. But mostly we just sit silently and do shit.
 
+### >>[Watch the video](https://www.youtube.com/watch?v=Z51EvzO6E4E)<<
+
 Donesday works as a placebo deadline. And as most placebos it does work, as long as you make-believe that it is real. Other people (who encourage you on progress and boo you on procrastination) help as well. Some peer pressure, you know.
 
 And then there is beer and music at the end (a.k.a. End Of The World Party). Smart people call it gratification, but I just call it beer.
+
+## Is there an organised #Donesday happenning nearby?
+
+Check [this spreadsheet](https://docs.google.com/spreadsheets/d/1Q12PrypaQWdyWUh0rVy_T94r0A7oyo1S_aurmDTYhsw/edit?usp=sharing) and try to find a place nearby.
+(Pull request here more than welcome to make this somewhat user-friendly)
+
+## Who is doing it?
+
+You. Seriously. Donesdays are completely open source and are independently organised. Just get one started at your office, co-work or even your home. Invite friends and get shit done together. Don't forget to congratulate each other on successes and share away on social with a `#donesday` hashtag, so that everyone sees how productive you are being while they are reading Facebook.
+Ready to host your own Donesday? Please fill [this form](http://goo.gl/forms/wdiWmhy8Yeybce642) in.
+And then download a poster template from [here](https://github.com/donesday/donesday/tree/master/announcement) and use it to let people know.
 
 ## What kinds of tasks are appropriate for a Donesday?
 
@@ -57,11 +70,15 @@ Here is the protocol for a 15-min chat:
 ## Remote participation
 
 Yes you can participate remotely if your task(s) requires being elsewhere. But it's not nearly as much fun.
+The way to participate remotely is to just do shit, using the same 25 min working / 15 min talking schedule and post your dones with #donesday hashtag throughout social media.
+For 15-min conversations of people participating remotely - we suggest that we call your firneds and ask them if they have 15 mins to help you with something / double check your logic.
+But a _much_ better idea is to just organize your own Donesday at your home. It's not too much work: you basically invite a few friends over and you get shit done together. Like you can make a party around sorting out your balcony. Sounds like fun isn't it?
 
 ## Donesong
 Donesday has an official song. [Here it is](https://soundcloud.com/george-strakhov/donesong).
+And [here is the video of Snoozy singing it](https://www.youtube.com/watch?v=Z51EvzO6E4E).
 
-Can sing better than me? A pull request is _very_ welcome.
+Can sing better than Snoozy? Pull requests are _very_ welcome.
 Lyrics available [here](https://raw.githubusercontent.com/donesday/donesday/master/song/donesong-text.md).
 
 ## Donesdance
@@ -73,20 +90,15 @@ There is no special dance at the moment, but eventually our wonderful would-be c
 ------------------
 
 ## PROJECT TODO
-* put something in about Snoozy (how to make him)
-* write FAQ
-* create a poster (A4 & A3) (with location to be filled in) for local groups to organise
 * make a donesday clock (JS: 25 min working, 15 min helping. transition sounds. how many sprints?)
 * make a donesday briefing slidedeck (via reveal.js) for organisers
-* pre-launch with friends
-* soft-launch via FB
-* people to reach out to for the announcement of the big first event:
-    - tim urban 
-    - trello (?)
 
 ## PROJECT HAVEDONE
 
+* pre-launch with friends
+* soft-launch via FB
 * put up a .org website via jekyll & gh-pages
+* create a poster (A4) (with location to be filled in) for local groups to organise
 * make a participation form for the via typeform + connect to google spreadhseet
 * upload / publish the final video: to youtube & directly to FB for better sharing
 * shorten the video (also add something about #donesday hashtag ??)
