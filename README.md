@@ -87,6 +87,9 @@ The only prerequisites are beer and music. And Donuts (pun intended), but they a
 Burning the to-do post-its from the Dones bin is usually fun. But only do this if you are outside and it's going to be safe and you know what you are doing.
 There is no special dance at the moment, but eventually our wonderful would-be community may come up with the moves (pull request welcome!) and then you will have to learn it.
 
+## Get in touch
+Send your feedback, ideas and questions to [donesday@gmail.com](mailto:donesday@gmail.com)
+
 ------------------
 
 ## PROJECT TODO
