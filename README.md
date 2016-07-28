@@ -48,7 +48,7 @@ For example:
 * A wall to stick tasks to (with a "TODO" sign on it)
 * A bin to throw done tasks into (with a "DONE" sign on it)
 * A leader board. Any paper will do, where you have the names of all participants and add points as they finish their tasks.
-* An alarm clock (pomodoro will do, or you can use our digital version - coming soon).
+* Special alarm clock (https://donesday.github.io/donesday-clock/)
 * Beer (for the afterparty)
 
 ## The Rules
@@ -93,11 +93,10 @@ Send your feedback, ideas and questions to [donesday@gmail.com](mailto:donesday@
 ------------------
 
 ## PROJECT TODO
-* make a donesday clock (JS: 25 min working, 15 min helping. transition sounds. how many sprints?)
-* make a donesday briefing slidedeck (via reveal.js) for organisers
 
 ## PROJECT HAVEDONE
 
+* make a donesday clock (JS: 25 min working, 15 min helping. transition sounds. how many sprints?)
 * pre-launch with friends
 * soft-launch via FB
 * put up a .org website via jekyll & gh-pages
